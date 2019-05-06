@@ -97,8 +97,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="235" />
-    <option name="y" value="711" />
+    <option name="x" value="525" />
+    <option name="y" value="328" />
     <option name="width" value="1384" />
     <option name="height" value="1103" />
   </component>
@@ -164,7 +164,8 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557108007233" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557109240211" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -214,7 +215,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556902049775</updated>
-      <workItem from="1556902053584" duration="22283000" />
+      <workItem from="1556902053584" duration="22961000" />
     </task>
     <servers />
   </component>
@@ -230,10 +231,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22283000" />
+    <option name="totallyTimeSpent" value="22961000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="188" y="569" width="1107" height="882" extended-state="0" />
+    <frame x="420" y="263" width="1107" height="882" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
